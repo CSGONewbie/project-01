@@ -1,0 +1,1 @@
+var str_v = "HOLA MUNDO!!"
